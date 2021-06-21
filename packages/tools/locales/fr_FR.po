@@ -124,7 +124,7 @@ msgstr "Télécharger"
 
 #: packages/app-desktop/checkForUpdates.js:189
 msgid "Skip this version"
-msgstr "Ignorer cette versiojn"
+msgstr "Ignorer cette version"
 
 #: packages/app-desktop/checkForUpdates.js:189
 msgid "Full changelog"
@@ -1524,7 +1524,7 @@ msgstr "Impossible d'installer le module : %s"
 
 #: packages/app-desktop/gui/ConfigScreen/controls/plugins/PluginsStates.js:234
 msgid "Try again"
-msgstr ""
+msgstr "Réessayer"
 
 #: packages/app-desktop/gui/ConfigScreen/controls/plugins/PluginsStates.js:242
 msgid "Plugin tools"
