@@ -123,11 +123,11 @@ msgstr "Загрузить"
 
 #: packages/app-desktop/checkForUpdates.js:189
 msgid "Skip this version"
-msgstr ""
+msgstr "Пропустить эту версию"
 
 #: packages/app-desktop/checkForUpdates.js:189
 msgid "Full changelog"
-msgstr ""
+msgstr "Все изменения"
 
 #: packages/app-desktop/gui/NoteRevisionViewer.min.js:100
 msgid "This note has no history"
@@ -1512,11 +1512,11 @@ msgstr "У вас нет установленных плагинов."
 #: packages/app-desktop/gui/ConfigScreen/controls/plugins/PluginsStates.js:232
 #, fuzzy
 msgid "Could not connect to plugin repository"
-msgstr "Не удалось установить плагин: %s"
+msgstr "Не удалось подсоединиться к репозитору плагина."
 
 #: packages/app-desktop/gui/ConfigScreen/controls/plugins/PluginsStates.js:234
 msgid "Try again"
-msgstr ""
+msgstr "Попробовать ещё раз"
 
 #: packages/app-desktop/gui/ConfigScreen/controls/plugins/PluginsStates.js:242
 #, fuzzy
